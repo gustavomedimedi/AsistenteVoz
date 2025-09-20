@@ -96,4 +96,3 @@ void loop() {
 
 ---
 
-¿Quieres que prepare esta guía como README para GitHub o como documento PDF para compartir en clase? También puedo ayudarte a traducirla al inglés si planeas compartirla con docentes internacionales.
