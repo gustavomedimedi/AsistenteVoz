@@ -24,8 +24,7 @@ String bufferPregunta = "";
 void setup() {
   Serial.begin(115200);
   asistente.iniciar();
-  asistente.decir("Hola. Escribe tu pregunta en el monitor serial.");
-  asistente.decir("Si solo les mostramos amor a algunos hermanos de la congregación, no estamos obedeciendo lo que dijo Jesús sobre el amor. Claro, puede que tengamos una amistad más estrecha con algunos de nuestros hermanos, tal como le pasó a Jesús con algunos de sus discípulos");
+  asistente.decir("Hola. Escribe tu pregunta en el monitor serial.");  
 }
 
 void loop() {
