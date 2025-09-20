@@ -94,8 +94,7 @@ void loop() {
 
 - `AsistenteVoz.h`: definición de la clase.
 - `AsistenteVoz.cpp`: implementación completa.
-- `main.ino`: ejemplo de uso básico.
-- `main_serial.ino`: ejemplo con entrada por Monitor Serial.
+- `PruebaAsistenteVoz`: ejemplo de uso básico.
 
 ---
 
