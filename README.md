@@ -3,6 +3,9 @@ Una biblioteca didáctica para interactuar por voz con modelos de lenguaje (GPT,
 ¡Aquí tienes, Gustavo! Esta es la guía de uso de la biblioteca `AsistenteVoz` lista para incluir en tu repositorio o compartir con tus estudiantes como archivo de referencia:
 
 ---
+# 📘 Guía de obtener API de Openrouter
+
+### Para obtener la API KEY primero registrate en OPENROUTER (https://openrouter.ai) y luego vas a Modelos (https://openrouter.ai/models) , eliges el modelo que prefieras. Despues vas a la seccion de Crear API y luego en CURL de la Api para copiar el modelo el cual usaras en el codigo que deseas implementar la Biblioteca.
 
 # 📘 Guía de uso — Biblioteca `AsistenteVoz` para ESP32-C3 Mini
 
